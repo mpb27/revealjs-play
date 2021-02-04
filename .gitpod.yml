@@ -1,0 +1,15 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  # Start reveal-md server watching the presentation for changes.
+  #   - default port: 1948
+  - openMode: tab-after
+    command: 'reveal-md presentation.md --watch'
+  # Open a tab with terminal.
+  - openMode: tab-after
+    command: 'echo "Welcome"'    
+
+ports:
+  - port: 1948
+    onOpen: open-preview
