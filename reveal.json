@@ -1,6 +1,7 @@
  {
     "controls": false,
     "progress": true,
+    "slideNumber": "c/t",
     "backgroundTransition": "slide",
     "parallaxBackgroundImage": "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg",
     "parallaxBackgroundSize": "2000px 1200px",

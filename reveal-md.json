@@ -1,3 +1,7 @@
 {
-    "scripts": "lib/mermaid.min.js,lib/reveal-mermaid.js"
+    "scripts": "lib/mermaid.min.js,lib/reveal-mermaid.js",
+    "css": ["custom.css"],
+    "watch": true,
+    "print-size": "A4",
+    "highlightTheme": "docco"
 }
