@@ -1,5 +1,6 @@
  {
     "controls": false,
+    "center": false,
     "progress": true,
     "slideNumber": "c/t",
     "backgroundTransition": "slide",

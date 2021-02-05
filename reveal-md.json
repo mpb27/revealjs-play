@@ -3,5 +3,6 @@
     "css": ["custom.css"],
     "watch": true,
     "print-size": "A4",
-    "highlightTheme": "docco"
+    "highlightTheme": "docco",
+    "center": false
 }
