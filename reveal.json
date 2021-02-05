@@ -1,0 +1,10 @@
+ {
+    "controls": false,
+    "progress": true,
+    "transition": "zoom",
+    "backgroundTransition": "slide",
+    "parallaxBackgroundImage": "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg",
+    "parallaxBackgroundSize": "2100px 900px",
+    "parallaxBackgroundHorizontal": 200,
+    "parallaxBackgroundVertical": 50
+}
