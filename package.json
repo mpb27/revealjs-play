@@ -1,0 +1,27 @@
+{
+  "name": "revealmd-play",
+  "version": "1.0.0",
+  "description": "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mpb27/revealmd-play)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpb27/revealmd-play.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpb27/revealmd-play/issues"
+  },
+  "homepage": "https://github.com/mpb27/revealmd-play#readme",
+  "dependencies": {
+    "@asciidoctor/reveal.js": "^4.1.0",
+    "asciidoctor": "^2.2.1"
+  }
+}
